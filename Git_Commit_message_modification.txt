@@ -1,0 +1,5 @@
+It is intended to perform git commands for better understanding.
+Sub: Git commit message modifying after pushing changes to remote
+  attempt1: 1.first adding commit message as "Intial commit".
+			2.Pushing changes to remote
+			3.git log
